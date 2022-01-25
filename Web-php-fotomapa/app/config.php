@@ -2,10 +2,10 @@
 /*************
 	database
 **************/
-define('SERVER', 'db718799277.db.1and1.com');
-define('DATABASE', 'db718799277');
-define('USER', 'dbo718799277' );
-define('PASSWORD','41434143');
+define('SERVER', 'mirar-en-pc');
+define('DATABASE', 'mirar-en-pc');
+define('USER', 'mirar-en-pc' );
+define('PASSWORD','mirar-en-pc');
 
 
 
